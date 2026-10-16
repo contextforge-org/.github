@@ -12,3 +12,6 @@ The following files will automatically appear in any [Presto repository](https:/
 * CONTRIBUTING.md
 * SECURITY.md
 * SUPPORT.md
+
+# License
+Unless otherwise specified in a repository the [Apache 2.0 License](LICENSE) is the license applied by default to all repositories within this organisation.
