@@ -1,6 +1,10 @@
 # Hello, World! :wave:
 
-Welcome to IBM ContextForge's organization on GitHub where we love all things open source.
+Welcome to ContextForge's organization on GitHub where we love all things open source.
+This is an IBM sponsored open source project. We accept contributions from everyone in the open source community - see our guidelines below.
+
+ContextForge is an AI protocol gateway and this organisation has several projects directly related to it both supporting it and within the ecosystem/environment of it.
+The main project is [mcp-context-forge](https://github.com/ibm/mcp-context-forge) (Currently in IBM opensource org, but migrating shortly to this org).
 
 # Default community health files
 
