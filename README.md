@@ -19,3 +19,7 @@ The following files will automatically appear in any [Presto repository](https:/
 
 # License
 Unless otherwise specified in a repository the [Apache 2.0 License](LICENSE) is the license applied by default to all repositories within this organisation.
+
+# Offboarding policy
+Should there by no-one left to maintain this project it will be left in the open as abandon-ware for the community to fork and take whatever actions it decides with the opensource code.
+If it is ever transitioned to this state this README.md will be updated to reflect that state.
