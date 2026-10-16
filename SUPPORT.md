@@ -9,4 +9,3 @@ To get support you can:
 
 ## For additional support requirements
 Please contact IBM for a support offering related to this open source project
-
