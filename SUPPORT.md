@@ -9,3 +9,7 @@ To get support you can:
 
 ## For additional support requirements
 Please contact IBM for a support offering related to this open source project
+
+## Complaints
+For situations to raise complaints about the community or other aspects of this project you can contact [@jonpspri](https://github.com/jonpspri) or [@wayneleoneIRL](https://github.com/wayneleoneIRL)
+
